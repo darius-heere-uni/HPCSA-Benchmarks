@@ -1,0 +1,19 @@
+{
+  "benchmark": "faas_tiny_relay_v1",
+  "run_id": "bench-b1-k8s-r03",
+  "stack": "k8s",
+  "partition_id": 1,
+  "workers": 2,
+  "node_name": "k8s-w2",
+  "assigned_invocations": 256,
+  "ok": 256,
+  "failed": 0,
+  "assigned_results": 256,
+  "job_latency_file": "/nfs/bench/faas_tiny_relay_v1/results/k8s/bench-b1-k8s-r03/part_01/job_latency.jsonl",
+  "startup_t0_wall": null,
+  "startup_t1_wall": null,
+  "startup_setup_ms": null,
+  "warm_first_submit_wall": 1774112718.7441535,
+  "warm_last_done_wall": 1774113924.4479659,
+  "warm_makespan_ms": 1205703.8123607635
+}

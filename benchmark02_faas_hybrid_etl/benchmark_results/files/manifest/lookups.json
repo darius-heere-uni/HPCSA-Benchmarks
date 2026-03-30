@@ -1,0 +1,34 @@
+[
+  {
+    "file_name": "category_normalization.json",
+    "sha256": "cdc222880aeeea6d59fcff8ac1fb71fdd3e58f4a40dab44fb657f47aa20e4cd3"
+  },
+  {
+    "file_name": "category_groups.json",
+    "sha256": "75d78fe1da378a9a399b904dba422fa610f6b8cea403b1a69ca6896308876622"
+  },
+  {
+    "file_name": "region_normalization.json",
+    "sha256": "0601c6b1bc02df2f2f6e11d66265afe8345bbef61ec8d2147e0e261e1fd2cd5d"
+  },
+  {
+    "file_name": "region_groups.json",
+    "sha256": "1c4507e225722076ed600c131b423a2dafea2bf074917242e2fe1c0dcfb37647"
+  },
+  {
+    "file_name": "region_weights.json",
+    "sha256": "c3369422414fdcde2d250545034ff63ca4c975a6a0b75e2049a84fb9c85f4fae"
+  },
+  {
+    "file_name": "stopwords.json",
+    "sha256": "d6fe4549c4dc1c7cf796fec584bce337ef5acec113e5276a5739954a5c901d83"
+  },
+  {
+    "file_name": "keyword_tags.json",
+    "sha256": "d22ce3a858b718bccba178bc870570d19ed632d9af4cee13d50afbdb1872e7b1"
+  },
+  {
+    "file_name": "bucket_thresholds.json",
+    "sha256": "eb441dd153346647f50257ca56719446a0c0ce5b8ece2bdef4ad8201bef938fc"
+  }
+]

@@ -1,0 +1,1 @@
+faas-tiny-single-invocation-v1

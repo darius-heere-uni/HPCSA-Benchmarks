@@ -1,0 +1,16 @@
+{
+  "benchmark": "faas_hybrid_etl_v1",
+  "dataset_version": "v1",
+  "invocation_model": "one invocation processes exactly one main shard plus shared lookup/config files",
+  "lookup_files": 8,
+  "partition_rule": "shard_id % 2 -> partition 0/1 for two-way benchmark split",
+  "results_dirs": [
+    "results/k8s",
+    "results/ksi"
+  ],
+  "seed": 12345,
+  "shards": 64,
+  "target_bytes_per_shard": 67108864,
+  "total_input_bytes": 4294980384,
+  "total_record_count": 10634313
+}
